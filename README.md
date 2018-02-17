@@ -24,8 +24,6 @@ Have a look at the [step by step guide](https://www.belatrixsf.com/blog/how-to-e
  - [Get VS Code](https://code.visualstudio.com/download).
  - [yarn](https://yarnpkg.com/lang/en/docs/install/) version 1.3.2 or higher.
  - [Angular CLI](https://github.com/angular/angular-cli) version 1.7.0
- - [this evening](https://www.meetup.com/es-ES/AngularJS-Peru/events/247171209) :sunglasses:.
-
 ![tech-stack-logos](https://i.imgur.com/Q3X8kbp.gif)
 
 
