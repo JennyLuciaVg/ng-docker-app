@@ -5,6 +5,7 @@ Example Angular 5.2.4 to-dos application built from scratch, using the angular-c
 This app manages to-dos. Using the app, the user can list, add, edit and remove to-dos.
 
 ### Docker: Building a Container Image
+Some slides about [Angular and Docker](https://goo.gl/5j4iCn)
 ```bash
 # Build the image 
 docker build -t orlando1409/to-do-app
